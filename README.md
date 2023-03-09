@@ -32,7 +32,7 @@ A linear regression model and regression tree model were created to examine rela
 
 Visual 1: Average Item Earnings 
 
-HERE
+![Average Item Earnings](images/average-items-earnings.png)
 
 Examining Item type and outlet sales. Results were that the highest selling items are the starchy foods category and the lowest is the others category.
 
