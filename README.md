@@ -54,7 +54,8 @@ There are more Type 1 supermarkets and grocery stores, yet Type 3 has significan
 
 Visual 4: Supermarket Type 3 Sales
 
-HERE 
+![Supermarket Type 3 Sales](images/supermarket-type3-sales.png)
+
 
 Breakfast foods are the highest earners, followed by the fruits and vegetables category. The lowest earning products in this market are seafood and those in the others category. 
 
