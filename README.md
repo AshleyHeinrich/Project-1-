@@ -14,7 +14,7 @@ Link: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQi7iKxT7clZBqORghprLraGV
 
 For this dataset there were 8,523 rows and 12 columns
 
-Data Dictionary:
+**Data Dictionary:**
 
 ![Data Dictionary](images/data-dictionary.png)
 
@@ -30,14 +30,14 @@ A linear regression model and regression tree model were created to examine rela
  
 ## Results:
 
-Visual 1: Average Item Earnings 
+**Visual 1: Average Item Earnings** 
 
 ![Average Item Earnings](images/average-items-earnings.png)
 
 Examining Item type and outlet sales. Results were that the highest selling items are the starchy foods category and the lowest is the others category.
 
 
-Visual 2: Average Earnings vs Outlet Type
+**Visual 2: Average Earnings vs Outlet Type**
 
 ![Average Earnings v Outlet Type](images/average-earning-outlet-type.png)
 
@@ -45,14 +45,14 @@ Visual 2: Average Earnings vs Outlet Type
 Supermarket type 3 have the highest sales while Grocery Stores have the lowest.
 
 
-Visual 3: Amount of Each Outlet Type
+**Visual 3: Amount of Each Outlet Type**
 
 ![Amount of Each Outlet Type](images/amount-each-outlet-type.png)
 
 There are more Type 1 supermarkets and grocery stores, yet Type 3 has significantly higher earnings.
 
 
-Visual 4: Supermarket Type 3 Sales
+**Visual 4: Supermarket Type 3 Sales**
 
 ![Supermarket Type 3 Sales](images/supermarket-type3-sales.png)
 
@@ -63,11 +63,11 @@ Further inspection of Type 3 supermarkets showed low fat breakfast products as t
 
 ## Machine Learning
 
-Regression Tree Model: 
+**Regression Tree Model:**
 
 The regression tree model had a better performance on test data than a linear regression model. To optimize performance of the model a max_depth of 5 was found and instantiated. Final metrics are shown below. 
 
-HERE
+![Regression Metrics](images/regression-metrics.png)
 
 The R2 score is somewhat low and this model can only account for about 59% of the variation in y_test using the features in X_test. 
 
