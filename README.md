@@ -9,15 +9,17 @@ This project was designed to help a retailer make predictions about future sales
 Data was preprocessed for machine learning and regression models were used to examine relationships between variables of interest related to outlet sales. Challenges faced include significant amounts of missing data in Outlet Size and required assumptions for imputations. There were also many outliers present in Outlet Sales that may have influenced regression metrics and models. 
 
 ## Data:
- 
+
 Link: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQi7iKxT7clZBqORghprLraGVOXXfp2A0Y2Z1gHE2BWOoOYeKvsOWNjHyZYE-fJ_45COs2lYKQVZSxJ/pub?output=csv'
- 
+
 For this dataset there were 8,523 rows and 12 columns
+
+Data Dictionary:
 
 HERE
 
 ## Methods:
- 
+
 Data was initially explored and cleaned, temporarily imputing missing values with mean for Item weight and a placeholder for Outlet Size. 
 
 Visualizations were made including histograms, bar plots, heat maps and box plots to further explore data and find any correlations, product or market trends that could be linked to higher sales. 
@@ -27,7 +29,7 @@ Data was reloaded to prevent leakage and split during preprocessing for machine 
 A linear regression model and regression tree model were created to examine relationships between variables of interest and outlet sales. 
  
 ## Results:
- 
+
 Visual 1: Average Item Earnings 
 
 HERE
