@@ -45,7 +45,7 @@ Supermarket type 3 have the highest sales while Grocery Stores have the lowest.
 
 Visual 3: Amount of Each Outlet Type
 
-HERE
+![Amount of Each Outlet Type](images/amount-each-outlet-type.png)
 
 There are more Type 1 supermarkets and grocery stores, yet Type 3 has significantly higher earnings.
 
