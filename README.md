@@ -16,7 +16,7 @@ For this dataset there were 8,523 rows and 12 columns
 
 Data Dictionary:
 
-HERE
+![Data Dictionary](images/data-dictionary.png)
 
 ## Methods:
 
@@ -39,7 +39,9 @@ Examining Item type and outlet sales. Results were that the highest selling item
 
 Visual 2: Average Earnings vs Outlet Type
 
-HERE
+![Average Earnings v Outlet Type](images/average-earning-outlet-type.png)
+
+
 Supermarket type 3 have the highest sales while Grocery Stores have the lowest.
 
 
