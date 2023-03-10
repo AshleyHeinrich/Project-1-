@@ -10,7 +10,7 @@ Data was preprocessed for machine learning and regression models were used to ex
 
 ## Data:
 
-Link: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQi7iKxT7clZBqORghprLraGVOXXfp2A0Y2Z1gHE2BWOoOYeKvsOWNjHyZYE-fJ_45COs2lYKQVZSxJ/pub?output=csv'
+Link: https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
 
 For this dataset there were 8,523 rows and 12 columns
 
